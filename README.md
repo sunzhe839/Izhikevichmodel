@@ -1,0 +1,3 @@
+Izhikevichmodel
+===============
+STDP+Izhikevich model
